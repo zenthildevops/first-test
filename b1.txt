@@ -1,6 +1,6 @@
 branch refer
-<<<<<<< HEAD
 123456789
 456789
-=======
->>>>>>> parent of 4c92b72...  b12ndline
+
+
+147258
